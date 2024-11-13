@@ -2,7 +2,7 @@ name: Salesforce Code Analyzer Workflow
 on: workflow_dispatch
 jobs:
   salesforce-code-analyzer-workflow:
-    runs-on: ubuntu-latest
+    runs-on: asdvghj
     steps:
       - name: Check out files
         uses: actions/checkout@v4
